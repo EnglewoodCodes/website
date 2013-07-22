@@ -2,7 +2,7 @@
 
 /* First, pull in Bootstrap's stylesheet */
 
-@import url(bootstrap/css/bootstrap.css);
+@import url(bootstrap.css);
 
 /* Second, set custom style rules I created from stylebootstrap.info */
 
